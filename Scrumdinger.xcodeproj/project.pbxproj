@@ -16,6 +16,11 @@
 			path = Scrumdinger;
 			sourceTree = "<group>";
 		};
+		B376DF742CC98A990061B084 /* LICENSE */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = LICENSE;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +37,7 @@
 		B3135B0C2CC766C20033D257 = {
 			isa = PBXGroup;
 			children = (
+				B376DF742CC98A990061B084 /* LICENSE */,
 				B3135B172CC766C20033D257 /* Scrumdinger */,
 				B3135B162CC766C20033D257 /* Products */,
 			);
@@ -62,6 +68,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				B3135B172CC766C20033D257 /* Scrumdinger */,
+				B376DF742CC98A990061B084 /* LICENSE */,
 			);
 			name = Scrumdinger;
 			packageProductDependencies = (
